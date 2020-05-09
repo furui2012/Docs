@@ -2,7 +2,7 @@
 
 **For software developers,** we have listed some common IDEs below so you can build your desktop development environment easily! 
 
-If you are interested in **IoT** to **control the physical world** and **get sensor data**, the built in Arduino makes it easy and user-friendly with  built-in support for **different types of programming languages.**
+If you are interested in **IoT** to **control the physical world** and **get sensor data**, the built in Arduino makes it easy and user-friendly with built-in support for **different types of programming languages.**
 
 Enjoy coding!
 
